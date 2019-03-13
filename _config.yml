@@ -1,6 +1,6 @@
 # Site settings
-title: John Guo
-SEOTitle: 博客 | John Guo
+title: John Blog
+SEOTitle: 博客 | John Blog
 header-img: img/post-bg-desk.jpg
 email: guoyuanzhuang@gmail.com
 description: "这是一个神奇的博客"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/guoyuanzhuang/guoyuanzhuang.github.io.git" # yo
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "John | 杭州 | 前端开发"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about_head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
