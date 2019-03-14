@@ -3,7 +3,7 @@ title: John's Blog
 SEOTitle: 博客 | John's Blog
 header-img: img/post_bg_home.jpg
 email: guoyuanzhuang@gmail.com
-description: "这是一个神奇的博客"
+description: "John's Blog"
 keyword: "John Guo, Android, Java, Kotlin, ReactNative, Flutter, iOS, Swift"
 url: "https://guoyuanzhuang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,8 +13,8 @@ github_repo: "https://github.com/guoyuanzhuang/guoyuanzhuang.github.io.git" # yo
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "John | 杭州 | Android开发"
-sidebar-avatar: /img/icon_about_head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "John | 杭州 | 移动端开发"
+sidebar-avatar: /img/icon_head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -82,7 +82,7 @@ gitalk:
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
@@ -95,16 +95,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Google Developer",
+        href: "https://developers.google.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Flutter Developer",
+        href: "https://flutter.dev"
     },{
         title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        href: "https://developer.apple.com"
     }
 ]
