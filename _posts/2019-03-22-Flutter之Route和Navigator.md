@@ -2,7 +2,7 @@
 layout:     post
 title:      Flutter之Route和Navigator
 subtitle:   Route & Navigator
-date:       2018-12-01
+date:       2019-03-22
 author:     John Guo
 header-img: img/post_bg_flutter.jpg
 catalog: true
