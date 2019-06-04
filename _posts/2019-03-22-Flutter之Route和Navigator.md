@@ -49,9 +49,9 @@ onPressed: () {
 
 # 小结
 Navigator的职责是负责管理Route的，管理方式就是利用一个栈不停压入弹出，当然也可以直接替换其中某一个Route。而Route作为一个管理单元，主要负责创建对应的界面，响应Navigator压入路由和弹出路由；  
-####入栈：
-* 使用Navigator.of(context).pushName(“path“)或者Navigator.pushName(context,“path“)可以进行静态路由的跳转前提是需要在route属性里面注册
+### 入栈
+使用Navigator.of(context).pushName(“path“)或者Navigator.pushName(context,“path“)可以进行静态路由的跳转前提是需要在route属性里面注册
 使用push(Route)可以进行态路由的跳转，动态路由可以传入未知数据；  
-####出栈
-* 使用pop()可以进行路由的出栈并且可以传递参数
+### 出栈
+使用pop()可以进行路由的出栈并且可以传递参数
 可以使用Future接收上个页面返回的值；
